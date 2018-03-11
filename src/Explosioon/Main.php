@@ -6,7 +6,7 @@ use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase{
     
-    public function onEnablr(){
+    public function onEnable(){
         //TODO: 
     }
 }
